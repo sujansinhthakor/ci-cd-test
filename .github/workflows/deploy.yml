@@ -18,7 +18,7 @@ jobs:
         uses: appleboy/ssh-action@v1.2.0
         with:
           host: 13.202.253.199
-          username: ubuntu
+          username: ec2-user
           key: ${{ secrets.PRIVATE_SSH_KEY }}
           port: 22
           script: ./deploy.sh
