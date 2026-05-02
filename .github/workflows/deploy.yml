@@ -21,4 +21,4 @@ jobs:
           username: ec2-user
           key: ${{ secrets.PRIVATE_SSH_KEY }}
           port: 22
-          script: ls
+          script: ./deploy.sh
