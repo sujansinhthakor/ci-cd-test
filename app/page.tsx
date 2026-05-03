@@ -484,7 +484,7 @@ export default function Home() {
 
             <div className="stats-strip">
               {[
-                { num: "99", label: "Perf Score" },
+                { num: "90", label: "Perf Score" },
                 { num: "∞", label: "Scalability" },
                 { num: "0ms", label: "TTFB Edge" },
                 { num: "100%", label: "TypeSafe" },
