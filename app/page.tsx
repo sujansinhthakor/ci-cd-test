@@ -461,7 +461,7 @@ export default function Home() {
                   rel="noopener noreferrer"
                   className="btn btn-primary-crt"
                 >
-                  DEPLOY NOW
+                  Never Deploy shitty things
                 </a>
                 <a
                   href="https://nextjs.org/docs"
