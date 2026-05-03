@@ -2,7 +2,7 @@
 
 import { useEffect, useState } from "react";
 
-const FULL_TEXT = "Build. Deploy. Dominate.";
+const FULL_TEXT = "Code. Deploy. Dominate.";
 const BOOT_LINES = [
   "BIOS v3.14.15 — Initializing...",
   "RAM check: 1,048,576K OK",
