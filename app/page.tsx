@@ -461,7 +461,7 @@ export default function Home() {
                   rel="noopener noreferrer"
                   className="btn btn-primary-crt"
                 >
-                  DEPLOY NOW
+                  Never Deploy shitty things
                 </a>
                 <a
                   href="https://nextjs.org/docs"
@@ -484,7 +484,7 @@ export default function Home() {
 
             <div className="stats-strip">
               {[
-                { num: "99", label: "Perf Score" },
+                { num: "90", label: "Perf Score" },
                 { num: "∞", label: "Scalability" },
                 { num: "0ms", label: "TTFB Edge" },
                 { num: "100%", label: "TypeSafe" },
